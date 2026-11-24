@@ -1,0 +1,6 @@
+interface:
+  display_name: "AI Together 活动海报"
+  short_description: "先确认活动主题、嘉宾和报名信息，再制作字体统一、文字准确的活动海报"
+  default_prompt: "使用 $ai-together-poster 制作下一期海报，先询问缺失信息并让我确认上图文案。"
+policy:
+  allow_implicit_invocation: true

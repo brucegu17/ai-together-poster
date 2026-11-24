@@ -1,0 +1,43 @@
+{
+  "brand": "AI Together",
+  "edition": "第4期",
+  "audience": "对 AI 感兴趣的观望者与入门者",
+  "topics": [
+    {
+      "label": "GEO",
+      "description": "让品牌更容易被看见"
+    },
+    {
+      "label": "AI员工",
+      "description": "让日常运营更省力"
+    }
+  ],
+  "date": "2026-12-10",
+  "weekday": "周四",
+  "start": "19:00",
+  "end": "21:30",
+  "venue": "活动场地待确认",
+  "speakers": [
+    {
+      "name": "分享嘉宾一",
+      "company": "",
+      "role": "嘉宾介绍待确认",
+      "title": "AI时代的品牌可见性：GEO的商业逻辑与实现路径"
+    },
+    {
+      "name": "分享嘉宾二",
+      "company": "",
+      "role": "嘉宾介绍待确认",
+      "title": "如何搭建AI员工实现海外独立站的运营"
+    }
+  ],
+  "fee": "49.9 元/人",
+  "capacity": "40 人",
+  "organizers": [
+    "主办单位待填写",
+    "协办单位待填写"
+  ],
+  "qr": null,
+  "confirmed": false,
+  "sample": true
+}

@@ -1,0 +1,18 @@
+{
+  "mode": "preview",
+  "text_source_sha256": "892fe70a9df1ac1ed93fe6341544351053683fb5db0d170b94fcce033fda370b",
+  "font": {
+    "file": "PingFang.ttc",
+    "index": 7,
+    "sha256": "6bccdb1a967b2ae7e856927eb559591b2ce05656b0d4ad2764b9c9429f12c0b7"
+  },
+  "size": [
+    1080,
+    2275
+  ],
+  "qr_check": "not_provided_preview_only",
+  "visual_review": "Full poster inspected: readable, no clipping, generic guest labels, no real companies or registration code.",
+  "poster_sha256": "023ed8f0dffd398180a0f030690c5b24d097a047e673892c0c970c78c1e49e93",
+  "tests_passed": 6,
+  "qr_live_decode_test": "not_run_dependency_unavailable; final mode refuses missing decoder"
+}
